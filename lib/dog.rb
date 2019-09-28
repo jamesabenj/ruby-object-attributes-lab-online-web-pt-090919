@@ -12,12 +12,3 @@ def initialize(dog_name)
   end
     
 end
-
-
-
-
-
-
-
-
-end
